@@ -1,2 +1,2 @@
 # Data_analysis
-Data anaylsis with python - FreeCodeCamp 
+Data science with python
